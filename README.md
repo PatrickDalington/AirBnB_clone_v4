@@ -154,4 +154,4 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-ibrahim Balogun - [Github](https://github.com/ibrodante) / [Twitter](https://twitter.com/ibroman02)  
+olumba patrick - [Github](https://github.com/patrickdalington) / [Twitter](https://twitter.com/cwp_academy)  
